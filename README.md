@@ -1,7 +1,7 @@
 # Social-media-site.github.io
 It is a *Single-Landing page* developed using Bootstrap front-end UI framework
 
-<u>***Project Overview***</u>
+***Project Overview***
 - This website consists of a *"Navbar"* which is fixed at top of the screen.
 - It containes the main *"showcase-area"* which is the home-section and there will be an overlay of background-image.
 - **"Flex-box"** is used extensively for the purpose of aligning items.
