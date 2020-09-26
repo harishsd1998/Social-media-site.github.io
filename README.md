@@ -8,3 +8,5 @@ It is a *Single-Landing page* developed using Bootstrap front-end UI framework
 - If we click *"Contact-Us"* in the footer then, a little modal with some form fields will be displayed.
 - Also,**"ScrollSpy"** is implemented ie., when we move to a particular section, it will get highlighted.
 - **"Smooth-Scrolling"** is also utilized with the help of jquery.
+
+***Project Link:*** https://harishsd1998.github.io/Social-media-site.github.io/.
